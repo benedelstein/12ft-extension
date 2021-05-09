@@ -1,14 +1,14 @@
 {
-	"manifest_version": 2,
-	"name": "12ft browser extension",
-	"version": "1.0",
-	"description": "bypass any paywall",
-	"author": "Ben Edelstein",
-	"icons": {
-	},
+    "manifest_version": 2,
+    "name": "12ft browser extension",
+    "version": "1.0",
+    "description": "bypass any paywall",
+    "author": "Ben Edelstein",
+    "icons": {
+    },
     "background": {
-		"scripts": ["background.js"]
-	},
+        "scripts": ["background.js"]
+    },
     "browser_action": {
         "default_name": "hop the paywall"
     },
